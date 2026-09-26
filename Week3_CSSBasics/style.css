@@ -1,0 +1,162 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #f86104;
+    color:black;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+   background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 40px;
+    font-weight: bold;
+    color: #e85d04;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+nav a {
+    text-decoration: none;
+    color: #180303;
+}
+.hero {
+    text-align: center;
+    padding: 50px 50px; 
+}
+.hero-image{
+    font-size: 50px;
+    margin-top: 20px;
+}
+.hero h1 {
+    font-size: 2.3em;
+}
+
+.hero span {
+    color: #f95605;
+}
+
+.hero p {
+    font-size: 20px;
+}
+
+.order-btn {
+    display: inline-block;
+    background-color: #e85d04;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 15px;
+ }
+
+  /* Food Categories */
+    .section {
+      text-align: center;
+      padding: 40px 20px;
+}
+
+  .categories,
+    .foods,
+     .steps {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+ .category {
+    background-color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px gray;
+    }
+
+ /* Food Cards */
+     .food-card {
+        background-color: rgb(211, 168, 119);
+        width: 220px;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px gray;
+}
+
+.food-image {
+    font-size: 60px;
+
+    }
+
+     .food-card h3 {
+        color: #e85d04;
+    }
+
+     .add-btn {
+        background-color: #e85d04;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    button:hover {
+    background-color: #1543c2;
+    }
+
+/* How It Works */
+    .step {
+        background-color: white;
+        width: 180px;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px gray;
+    }
+
+ .step-icon {
+      font-size: 50px;
+        }
+
+/* Delivery */
+    .delivery {
+    background-color: #e85d04;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+ }
+
+/* Footer */
+footer {
+    background-color: #794408;
+    color: white;
+    text-align: center;
+    padding: 20px;
+ }
+
+
+
+
+
+
+
