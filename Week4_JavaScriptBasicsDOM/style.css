@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+}
+header {
+    position: relative;
+    background-color: #040404;
+    color: #f6f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+#heading {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    margin: 0;
+}
+
+#Theme {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+}
+
+.dark-mode {
+    background-color: rgb(14, 14, 14);
+    color: white;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px
+gray;
+}
+
+header {
+    background-color: #1E3A5F;
+    color: #d6c9c9;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 10px;
+   
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;;
+
+}
+
+nav ul li a {
+    color: #ddd5d5;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #efc9c7;
+    border: 10px solid #decbcb08;
+    box-shadow: 6px 6px 6px rgba(221, 207, 207, 0.1);
+}
+
+form {
+    display: flex;
+    flex-direction:column;
+}
+
+input, textarea, button {
+    margin-bottom: 10px;
+    padding: 10px;
+    border:1px solid #292525;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #116fdb;
+    color:white;
+    border:none;
+    cursor: pointer;
+}
+
+.icon-button {
+    color:rgb(7, 7, 7);
+    box-shadow: 3px 3px 3px rgba(13, 80, 204, 0.981);
+    width: 50px;
+    height: 50px;
+    margin-bottom: 0;
+    padding: 0;
+    border-radius: 50%;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1E3A5F;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    header, footer {
+        text-align: left;
+        padding: 10px;
+    }
+
+    #Theme {
+        top: 10px;
+        right: 10px;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 5px 0;
+    }
+}
