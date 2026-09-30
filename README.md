@@ -38,19 +38,39 @@ In Week 1 it implemented a simple HTML page and the basics of web page structure
 In Week 2 implementation it focuses on semantic HTML and multimedia content, using sections, navigation, and embedded media to create a structured and visually appealing Web page. It is also included styling such as gradient background, stick header, and responsive layout to improve the overall presentation
 
 ### Week 3 - CSS Basics
-In Week 3 the implementation is to create a web page using CSS styling to design a homepage. It included a header with navigation, category cards menu items. a "How it works" section and a footer, all style with color, spacing, buttons, and card layouts to make the page visually appealing.
+In Week 3 the implementation is to create a web page using CSS styling to design a homepage. It included a header with navigation, category cards menu items. a "How it works" section and a footer, all style with color, spacing, buttons, and card layouts to make the page visually appealing. 
+Project Brand Name: Food GO 
+Color Scheme Used: Bright orange,white, black, and brown
+Typography Used: Arial, sans-serif
+Design Goal: It is to present a fast-food delivery service with food categories, a menu , and ordering actions.
 
 ### Week 4 - JavaScript Basics and DOM Manipulation
 In week 4 the implementation is built a small interactive web page using JavaScript and DOM manipulation. It includes live time display, a dark-mode toggle with saved theme preference. a to-do list that adds and removes tasks, a contact form with email validation and a modal pop up, and some simple event-driven interactions to make the page dynamic.
+Project Brand Name: No brand name just MY WEB PAGE 
+Color Scheme Used: Navy blue, charcoal, pale pink, and light gray that includes a dark mode option.
+Typography Used: Arial, sans-serif
+Design Goal: It is to demonstrate an interactive personal web page with sections. 
 
 ### Week 5 - Javascript Functions and Bootstrap
 In week 5 the implementation is created a Bootstrap-based nature-themed landing page with a responsive navigation bar, a slideshow carousel, accordion sections for information, and a footer. It is used a Bootstrap components and custom CSS to build a modern, polished website layout focused on nature in photography and services.
+Project Brand Name: Nature in focus 
+Color Scheme Used: Forest green, sage, off-white, and warm gold
+Typography Used: Georgia for the brand and headings; Bootstrap’s default sans-serif for body text
+Design Goal: It is to showcase the nature's photography, a gallerym and photography services.
 
 ### Week 6 - API & Client Storage
 In week 6 the implementation combine the several client-side web features. local storage for saving the name of the user name and preferences, a weather API call using Open Weather Map, a GitHub profile lookup, and an interactive map with geolocation and location search using OpenStreetMap. It also includes theme and language switching, so the page demonstrates both API integration and browser storage in single dynamic website.
+Project Brand Name: WEATHER WEBSITE NAVIGATION
+Color Scheme Used: Blue, white and light blue accents
+Typography Used: Bootstrap’s default system sans-serif; no separate font is specified (styles)
+Design Goal: It is a combination of weather, maps, GitHub Lookup, and save user preferences in one page.
 
 ### Week 7 - MiniFullStackStarter
 In week 7 it implemented a mini full-stack app that connects a frontend directory form to MongoDB database through an Express API. It lets the user add, view, search, and delete people records, with the backend using Mongoose to store name , email and the age in MongoDB and the frontend displaying the data in a styled list.
+Project Brand Name: People Directory
+Color Scheme Used: Deep green, mint/cream, white, with coral accents
+Typography Used: DM sans for general text, Fraunces for the main heading (styles
+Design Goal: It is to provide a tidy interface for adding, finding, and browsing people's contace details.
 
 URL of the Live Render: https://it112-week7-fullstackstarter-lab-8-s4h5.onrender.com/
 
@@ -62,7 +82,11 @@ URL of the Live Render: https://it112-week7-fullstackstarter-lab-8-s4h5.onrender
 - JavaScript
 - Bootstrap
 - GitHub
-- 
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Thunder Client
+- Render
 ---
 
 ## Notes
