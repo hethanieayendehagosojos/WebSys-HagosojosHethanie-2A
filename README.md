@@ -62,7 +62,7 @@ URL of the Live Render: https://it112-week7-fullstackstarter-lab-8-s4h5.onrender
 - JavaScript
 - Bootstrap
 - GitHub
-- you can add more if you want
+- 
 ---
 
 ## Notes
