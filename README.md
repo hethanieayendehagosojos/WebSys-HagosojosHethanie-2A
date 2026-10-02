@@ -23,9 +23,13 @@ The project demonstrates my understanding of:
 
 ## Personalization Theme
 Project Brand Name: MY WEBPAGE
-Color Scheme Used: 
-Typography Used:
-Design Goal:
+Color Scheme Used: Navy blue, Bright orange,Forest green,white,
+Typography Used: Arial, sans-serif
+Design Goal: Food Delivery: Shows food categories, menu, and ordering.
+Personal Web Page: Demonstrates an interactive personal website.
+Nature Photography: Showcases nature photos, gallery, and services.
+Weather & Maps: Combines weather, maps, GitHub lookup, and saved preferences.
+Contact Manager: Provides an interface for adding and browsing contacts.
 
 ---
 
@@ -72,7 +76,7 @@ Color Scheme Used: Deep green, mint/cream, white, with coral accents
 Typography Used: DM sans for general text, Fraunces for the main heading (styles
 Design Goal: It is to provide a tidy interface for adding, finding, and browsing people's contace details.
 
-URL of the Live Render: https://it112-week7-fullstackstarter-lab-8-s4h5.onrender.com/
+URL of the Live Render: https://it112-week7-fullstackstarter-lab-10.onrender.com/
 
 ---
 
