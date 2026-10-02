@@ -22,8 +22,8 @@ The project demonstrates my understanding of:
 ---
 
 ## Personalization Theme
-Project Brand Name:
-Color Scheme Used:
+Project Brand Name: MY WEBPAGE
+Color Scheme Used: 
 Typography Used:
 Design Goal:
 
